@@ -4,7 +4,7 @@
 
 ### 🔐 Cybersecurity Enthusiast | 🌐 Web Developer | 🐧 Linux Explorer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Cybersecurity+Student;Ethical+Hacker;Networking+Learner;Building+Awesome+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Exploring+Cybersecurity;Ethical+Hacker;Building+Awesome+Projects" />
 
 <br>
 
@@ -12,9 +12,10 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/raj-vishwakarma-13a256419/">
+<img src="https://img.shields.io/badge/LinkdeIn-181717?style=for-the-badge&logo=linkedin&logoColor=blue"/>
 </a>
+
 
 </div>
 
@@ -22,7 +23,7 @@
 
 # 💻 About Me
 
-- 🎓 B.Sc. Information Technology Student
+- 🎓 BSc. Information Technology Student
 - 🔐 Passionate about Cybersecurity & Ethical Hacking
 - 🌱 Currently learning Networking, Linux & Web Security
 - 🚀 Building practical cybersecurity projects
