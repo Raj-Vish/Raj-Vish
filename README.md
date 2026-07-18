@@ -1,23 +1,42 @@
-                                              ##Hi, Raj Vishwakarma
+<div align="center">
 
-# 💫 About Me:
-👤 Name: Raj Vishwakarma<br> 💻Full Stack Developer | React + Node.js + MongoDB<br>🔐 Cybersecurity Enthusiast | B.Sc IT Student<br>🐧 Linux & Ethical Hacking Explorer<br>🚀 Building Projects & CTF Labs<br>
+# 👋 Hey, I'm Raj Vishwakarma
 
+### 🔐 Cybersecurity Enthusiast | 🌐 Web Developer | 🐧 Linux Explorer
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/raj-vishwakarma-13a256419/) 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Cybersecurity+Student;Ethical+Hacker;Networking+Learner;Building+Awesome+Projects" />
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Raj-Vish&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Raj-Vish&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Raj-Vish&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Raj-Vish&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<a href="https://github.com/Raj-Vish">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Raj-Vish&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💻 About Me
+
+- 🎓 B.Sc. Information Technology Student
+- 🔐 Passionate about Cybersecurity & Ethical Hacking
+- 🌱 Currently learning Networking, Linux & Web Security
+- 🚀 Building practical cybersecurity projects
+- 🎯 Goal: Become a Cybersecurity Analyst
+
+---
+
+# 🛠️ Tech Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
